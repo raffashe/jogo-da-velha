@@ -2,7 +2,7 @@
  
  ##
  
-![jogo](https://media.discordapp.net/attachments/875952964903268372/883109832079573012/unknown.png)
+![jogo](https://media.discordapp.net/attachments/875952964903268372/883392276951351316/unknown.png?width=516&height=594)
 
  ##
 <h4> Sobre o projeto 💻
